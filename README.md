@@ -16,10 +16,10 @@ Teams use Azure bots in part because of the tight integration they offer with mo
 
 ## Objectives
 Upon completion of this lab you will be able to:
-- Create Azure bots in a Node.js environment, using Yeoman
-- Interact locally with the bot using the Bot Framework Emulator
+- Create Azure bots in a Node.js environment, using [Yeoman](https://yeoman.io/)
+- Interact locally with the bot using the [Bot Framework Emulator](https://github.com/microsoft/BotFramework-Emulator/blob/master/README.md)
 - Integrate the bot with Azure AI Services API
-- Deploy it to Azure Bot Service using the Azure CLI and Azure Resource Manager
+- Deploy it to Azure Bot Service using the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest) and [Azure Resource Manager](https://azure.microsoft.com/en-us/features/resource-manager/)
 
 ## Reference
 https://platform.qa.com/lab/integrating-azure-bots-azure-cognitive-services/
