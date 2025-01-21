@@ -23,3 +23,6 @@ Upon completion of this lab you will be able to:
 
 ## Reference
 https://platform.qa.com/lab/integrating-azure-bots-azure-cognitive-services/
+
+## Screenshot
+![alt text](lab.png)
